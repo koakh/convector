@@ -48,7 +48,7 @@
     "@types/js-yaml": "^3.11.2",
     "fs-extra": "^6.0.1",
     "js-yaml": "^3.12.0",
-    "tslib": "^1.9.0"
+    "tslib": "^1.14.1"
   },
   "devDependencies": {
     "http-server": "^0.11.1",
